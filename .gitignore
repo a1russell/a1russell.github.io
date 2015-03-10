@@ -1,2 +1,11 @@
-_site
-.sass-cache
+.bundle/
+.sass-cache/
+.gist-cache/
+.pygments-cache/
+_site/
+vendor/
+node_modules/
+.DS_Store
+*~
+*.sw?
+
